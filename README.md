@@ -2,9 +2,9 @@
 회원 관리 사이트
 
 <h3>프로그램 버전 정보</h3>
-    OS      :: Windows 10
-    WAS     :: Tomcat 9.0.55
-    Charset :: UTF-8
+    OS      :: Windows 10 <br>
+    WAS     :: Tomcat 9.0.55 <br>
+    Charset :: UTF-8 <br>
     <img src="https://github.com/Stellasee/member-management-project/blob/main/show/program_spec.PNG">
 
 
